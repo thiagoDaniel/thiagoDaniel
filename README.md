@@ -4,10 +4,13 @@
   que com os meus conhecimentos eu possa colaborar com a evolução do meu time e evoluir cada vez mais o meu aprendizado </h4>
 
 
+
+
+<div align="center" width="100%">
+    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent">
+    <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
+
 </div>
 
-  <div align="center" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
-
-</div>
+ 
+  
