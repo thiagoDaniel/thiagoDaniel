@@ -5,12 +5,8 @@
 
 <div style= "display: inline_block"><br>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
+  <img  height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent"> 
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
     
 
-</div>
-
-<div style= "display: inline_block"><br>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=coolzoom&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolzoom&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
