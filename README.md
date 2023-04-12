@@ -3,9 +3,10 @@
 <h4> 🌱 Estou em busca de conseguir a minha primeira experiencia profissional como programador para 
   que com os meus conhecimentos eu possa colaborar com a evolução do meu time e evoluir cada vez mais o meu aprendizado </h4>
 
-<div style= "display: inline-block"><br>
+<div style= "display: flex"><br>
   
   <img  height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent"> 
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
   
   
+</div>
