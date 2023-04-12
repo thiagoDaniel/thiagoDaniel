@@ -6,7 +6,8 @@
 <div style= "display: inline_block"><br>
   
   <img  height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent"> 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
-    
-
+  
 </div>
+<div style= "display: inline_block"><br>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
+  </d>
