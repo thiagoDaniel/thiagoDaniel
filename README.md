@@ -8,7 +8,7 @@
 
 <div align="center" width="100%">
     <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=thiagoDaniel&show_icons=true&theme=transparent">
-    <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
+    <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDaniel&layout=compact">
 
 </div>
 
